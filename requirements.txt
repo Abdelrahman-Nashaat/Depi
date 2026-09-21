@@ -1,0 +1,11 @@
+groq>=0.37,<2
+pydantic>=2.7,<3
+python-dotenv>=1,<2
+pandas>=2.2,<4
+numpy>=2,<3
+scikit-learn>=1.6,<2
+kagglehub>=0.3,<2
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+ipykernel>=6.29,<8
+streamlit>=1.49,<2

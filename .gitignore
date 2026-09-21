@@ -1,4 +1,11 @@
 .env
+.env.*
+.venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.streamlit/
+data/
+dist/
+_local/
+*.log
